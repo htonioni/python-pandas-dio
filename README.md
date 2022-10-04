@@ -37,4 +37,4 @@ As seguintes etapas foram percorridas:
 
 ## Certificado de conclusão
 
- ![Certificado](certificados\certificado_pandas_py.jpg)
+ ![Certificado](certificados/certificado_pandas_py.jpg)
