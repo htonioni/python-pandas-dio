@@ -37,4 +37,4 @@ As seguintes etapas foram percorridas:
 
 ## Certificado de conclusão
 
- ![](C:\Users\htoni\OneDrive\Imagens\certificados\certificado_pandas_py.jpg)
+ ![Certificado](certificados\certificado_pandas_py.jpg)
