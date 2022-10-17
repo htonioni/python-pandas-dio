@@ -27,7 +27,7 @@ As seguintes etapas foram percorridas:
 
 - Trabalhando com Planilhas do Excel
 
-- Trabalhando com datas (Day, Month, Year)
+- Trabalhando com datas (Dia, Mês, Ano)
 
 - Visualização de dados
 
